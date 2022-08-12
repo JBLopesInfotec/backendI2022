@@ -11,4 +11,4 @@ Recursos Utilizados:
 
 Preview do projeto
 
-![home](https://github.com/Devmurilomartins/BackEnd1/blob/master/Preview/home.PNG)
+![home](https://github.com/JBLopesInfotec/backendI2022/blob/principal/Preview/principal.png)
